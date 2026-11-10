@@ -106,6 +106,7 @@ Phorest has no official MCP server and no official app in ChatGPT or Claude (che
 - [Phorest on Cotlet.dev](https://cotlet.dev/integrations/phorest-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=phorest&utm_content=find)
 - [PyPI package phorest-mcp](https://pypi.org/project/phorest-mcp/)
 - [Odel](https://odel.app/modules/cotlet/phorest)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/phorest/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-phorest-to-ai-agents-guide)
 
 ## Also works with
